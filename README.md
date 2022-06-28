@@ -16,11 +16,14 @@ A starter app for all Ionic UI elements - based on Ionic's List Starter
 
 Install this starter:
 ```bash
-git clone https://github.com/Tommertom/svelte-ionic-blank-list.git 
-cd svelte-ionic-blank-list
+git clone https://github.com/Tommertom/svelte-ionic-list-demo.git 
+cd svelte-ionic-list-demo
 npm i
 npm run dev
 ```
+
+N.b. has some issues with PWA elements and not tested yet on real device
+
 
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo
@@ -48,5 +51,5 @@ The following derived stores are implemented:
 
 All these props are also available via the `pwaStatusStream` readable store.
 
-# Issues - work in progress
+# Issues - work in progress and acknowledgments
 Please refer to the README on the main repo - https://github.com/Tommertom/svelte-ionic-app
