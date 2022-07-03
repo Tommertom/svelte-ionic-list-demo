@@ -34,7 +34,34 @@ N.b. has some issues with PWA elements and not tested yet on real device
 * Conference demo - https://github.com/Tommertom/svelte-ionic-conference-demo
 
 And the official demo app - https://github.com/Tommertom/svelte-ionic-app
+ 
 
+## Screenshots
+Main screen:
+<table>
+  <tr>
+    <th>iPhone SE</th>
+    <th>Samsung S8+</th>
+  </tr>
+  <tr>
+    <td>
+<img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE).png" width="65%" ></td>
+    <td><img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+).png" width="45%"></td>
+  </tr>
+</table>
+
+Detail screen:
+<table>
+  <tr>
+    <th>iPhone SE</th>
+    <th>Samsung S8+</th>
+  </tr>
+  <tr>
+    <td>
+<img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(iPhone SE)(1).png" width="65%" ></td>
+    <td><img alt="IonicSvelte" title="IonicSvelte" src="screenshots/localhost_3000_tabs_tab1(Samsung Galaxy S8+)(1).png" width="45%"></td>
+  </tr>
+</table>
   
 ## PWA Interface - easing the PWA work in your app
 To help you managing state of the service worker and the various events, a simple svelte store is provided for (`lib/pwa.ts`). This store wraps the various events of the service worker in a readable store and a number of derived stores so you can easily listen to various events.
