@@ -1,5 +1,6 @@
 <script lang="ts">
   import AppMessage from "$components/AppMessage.svelte";
+  import IonPage from "$lib/ionic/svelte/components/IonPage.svelte";
   import { getMessages as getMessagesFromService } from "$services/data";
   import { goto, url } from "@roxi/routify";
 
