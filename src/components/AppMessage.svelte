@@ -24,6 +24,7 @@ on:click={() => {
 </script>
 
 <ion-item
+  button
   detail="false"
   on:click={() => {
     gotoLink(message.id);
