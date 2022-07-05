@@ -22,8 +22,7 @@ npm i
 npm run dev
 ```
 
-N.b. has some issues with PWA elements and not tested yet on real device
-
+N.B. while the app works - the actual experience is not the same compared to the official version. The pages do not animate in the same way and there is no ripple effect on ion-item. If anyone knows how to resolve this, please let me know!
 
 ## All starters
 * Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo
