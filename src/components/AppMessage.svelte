@@ -13,13 +13,21 @@
     console.log("Link", id);
     $goto("/message/[id]", { id });
   };
+
+  /*
+on:click={() => {
+    gotoLink(message.id);
+  }}
+
+
+  */
 </script>
 
 <ion-item
+  detail="false"
   on:click={() => {
     gotoLink(message.id);
   }}
-  detail="false"
 >
   <div slot="start" class="dot" class:dot-unread={!message.read} />
   <ion-label class="ion-text-wrap">

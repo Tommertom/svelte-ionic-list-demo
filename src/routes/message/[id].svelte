@@ -1,6 +1,6 @@
 <script lang="ts">
   import IonPage from "$ionic/svelte/components/IonPage.svelte";
-
+  import { fly, fade } from "svelte/transition";
   import { getMessageById } from "$services/data";
 
   import { goto } from "@roxi/routify";
