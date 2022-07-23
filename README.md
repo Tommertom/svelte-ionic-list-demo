@@ -27,13 +27,40 @@ When using the online playground - make sure you pop-out the render window to se
 
 N.B. while the app works - the actual experience is not the same compared to the official version. The pages do not animate in the same way. If anyone knows how to resolve this, please let me know!
 
-## All starters
-* Blank demo - https://github.com/Tommertom/svelte-ionic-blank-demo
-* Tabs demo - https://github.com/Tommertom/svelte-ionic-tabs-demo
-* Sidemenu demo - https://github.com/Tommertom/svelte-ionic-sidemenu-demo
-* Mystarter demo - taking photo with Capacitor - https://github.com/Tommertom/svelte-ionic-mystarter-demo
-* List demo - https://github.com/Tommertom/svelte-ionic-list-demo
-* Conference demo - https://github.com/Tommertom/svelte-ionic-conference-demo
+## All starters - how to get started quickly!
+If you want to get started with Ionic, Svelte and Vite, just use one of the starters:
+
+* Blank demo 
+  - https://github.com/Tommertom/svelte-ionic-blank-demo
+  - `npx degit Tommertom/svelte-ionic-blank-demo svelte-ionic-blank-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-blank-demo
+
+* Tabs demo 
+  - https://github.com/Tommertom/svelte-ionic-tabs-demo
+  - `npx degit Tommertom/svelte-ionic-tabs-demo svelte-ionic-tabs-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-tabs-demo
+
+* Sidemenu demo 
+  - https://github.com/Tommertom/svelte-ionic-sidemenu-demo
+  - `npx degit Tommertom/svelte-ionic-sidemenu-demo svelte-ionic-sidemenu-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-sidemenu-demo
+
+* Mystarter demo - taking photo with Capacitor 
+  - https://github.com/Tommertom/svelte-ionic-mystarter-demo
+  - `npx degit Tommertom/svelte-ionic-mystarter-demo svelte-ionic-mystarter-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-mystarter-demo
+
+* List demo 
+  - https://github.com/Tommertom/svelte-ionic-list-demo
+  - `npx degit Tommertom/svelte-ionic-list-demo svelte-ionic-list-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-list-demo
+
+* Conference demo - (sort of...check its README) 
+  - https://github.com/Tommertom/svelte-ionic-conference-demo
+  - `npx degit Tommertom/svelte-ionic-conference-demo svelte-ionic-conference-demo`
+  - Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-conference-demo
+
+When using the online playground - make sure you pop-out the render window to see the demo in full size.
 
 And the official demo app - https://github.com/Tommertom/svelte-ionic-app
  
