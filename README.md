@@ -2,7 +2,7 @@
 <h1 align="center"> Ionic Svelte Demo - LIST</h1> <br>
 <p align="center">
   <a href="https://ionicsvelte.firebaseapp.com">
-    <img alt="IonicSvelte" title="IonicSvelte" src="https://github.com/Tommertom/svelte-ionic-app/raw/main/src/static/assets/svelte-ionic-vite.png" width="350">
+    <img alt="IonicSvelte" title="IonicSvelte" src="https://github.com/Tommertom/svelte-ionic-app/raw/main/src/static/assets/svelte-ionic-logo.png" width="350">
   </a>
 </p>
 <br>
@@ -21,6 +21,9 @@ cd svelte-ionic-list-demo
 npm i
 npm run dev
 ```
+Online playground - https://codesandbox.io/s/github/Tommertom/svelte-ionic-list-demo
+
+When using the online playground - make sure you pop-out the render window to see the demo in full size.
 
 N.B. while the app works - the actual experience is not the same compared to the official version. The pages do not animate in the same way. If anyone knows how to resolve this, please let me know!
 
